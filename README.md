@@ -1,0 +1,2 @@
+# CharityML-Predict-who-is-likey-to-donate-Supervised-Learning
+CharityML is a made-up non-profit company which aims to collect donations from the general public and finance a cause they support. The task is to derive a best predictive classifier model that predicts accuratly the most probable donors, given a cencus dataset with relevant features. The project includes metrics for model evaluation and discussion on the characteristics of the model.
